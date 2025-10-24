@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Prompt Enhancer",
+  "description": "An intelligent assistant to refine and optimize your prompts for the Gemini API. Input a basic idea, and receive a detailed, structured, and more effective prompt to get the best results from the language model.",
+  "requestFramePermissions": []
+}
